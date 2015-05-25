@@ -1,4 +1,4 @@
-1.�谲װpython,����Ϸ�ṩ�İ汾��2.7
-1.�谲װ��ӦPython�汾��pygame
-2.�谲װgameobjects
-3.���game.py������Ϸ
+0.需安装python,此游戏提供的版本是2.7
+1.需安装对应Python版本的pygame
+2.需安装gameobjects
+3.点击game.py启动游戏
